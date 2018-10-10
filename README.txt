@@ -1,22 +1,11 @@
-Name: Sachin Pratap Shah
-Email: ss01703@surrey.ac.uk
-App Name: ss01703_assignment2
-
 Special Instructions:
 
 - Open google maps before running the app from android studio
 - This to ensure the app can obtain the last known location
 
-- I wasn't sure on how to give you access to my firebase. So I did the following: https://goo.gl/2V8jSJ (I assure you this isn't a virus link lol)
-- I also did the following: https://goo.gl/BDfvtz
-- Here is a screenshot of my database: https://goo.gl/6DZsfk
-	- Each marker has a type e.g. fitness or pharmacy.
-	- Each type has a numbered table (staring from 1) which represent the marker's "ID"
-	- Each marker ID table, has the POI name, type and location. 
-
 Brief Description:
 
-- Navigate using the navigation drawer or 
+- Navigate using the navigation drawer or home buttons 
 
 Activity 1) Current Location 
 

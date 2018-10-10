@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ss01703_assignment2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_type_none">None</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_hybrid">Hybrid</string>
+    <string name="title_activity_navigation_drawer">Navigation App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_city_finder">CityFinder</string>
+    <string name="title_activity_location_handler">Points of Interest</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_current_location">CurrentLocation</string>
+    <string name="street_view">Street View</string>
+</resources>

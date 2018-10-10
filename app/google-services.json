@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "712817201087",
+    "firebase_url": "https://hopeful-frame-201417.firebaseio.com",
+    "project_id": "hopeful-frame-201417",
+    "storage_bucket": "hopeful-frame-201417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712817201087:android:2757988bb907fc23",
+        "android_client_info": {
+          "package_name": "com1032.cw1.ss01703.ss01703_assignment2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712817201087-b5aqtsjc24q5jploe7rctt00tan5gtuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com1032.cw1.ss01703.ss01703_assignment2",
+            "certificate_hash": "50d107a2d4029ae8b773a8e01d0fcbf3330cf4a5"
+          }
+        },
+        {
+          "client_id": "712817201087-d59q8ql3ukefljglcafaeqhk6tsc4ln2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7_sfD3IML-pJ2sx_61KeL25xsJGfL-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712817201087-d59q8ql3ukefljglcafaeqhk6tsc4ln2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
